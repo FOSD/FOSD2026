@@ -1,0 +1,17 @@
+theme: jekyll-theme-cayman
+
+title: FOSD Meeting 2026
+subtitle: March 24 - 27, 2026, University of Southern Denmark, Odense, Denmark
+description: Welcome to the Web site of the Meeting on Feature-Oriented Software Development 2026.
+
+repository: FOSD/FOSD2026
+url: https://fosd.github.io
+baseurl: /FOSD2026
+
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      permalink: :basename
+
+exclude: [vendor/, Gemfile, Gemfile.lock, README.md]
