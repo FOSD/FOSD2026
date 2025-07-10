@@ -42,7 +42,24 @@ The main objective is that researchers at different career stages (including und
 The format of an FOSD meeting consists of short presentations from each participant with plenty of time for discussion. Young researchers (graduate and undergraduate students), as well as more senior community members, present their research, provide and get feedback from others, engage into discussions and establish new collaborations. FOSD is a place for discussion, not a publication venue. Participants can present previously published work as well as unpublished work, including early ideas and work in progress. The key is to encourage discussions, to receive feedback and to grow the network of collaborating researchers.
 
 ## Important Dates
-TBD
+<table>
+  <tr>
+    <td>Abstract Submission Deadline</td>
+    <td>December 3, 2025 </td>
+  </tr>
+  <tr>
+    <td>Notification of Acceptance</td>
+    <td>December 16, 2025 </td>
+  </tr>
+  <tr>
+    <td>Registration Deadline</td>
+    <td>TBD (estimated: February 2026) </td>
+  </tr>
+  <tr>
+    <td>FOSD Meeting 2025</td>
+    <td>March 24 - 27, 2025</td>
+  </tr>
+</table>
 
 {% for conf_day in site.data.schedule %}
 ### Schedule {{ conf_day.day | date: "%A, %b %e" }}
@@ -60,10 +77,10 @@ The FOSD Meeting 2026 will take place at University of Southern Denmark in Odens
 
 Odense is the third-largest city in Denmark, located on the island of Funen. Known as the birthplace of famous fairy tale writer Hans Christian Andersen, the city blends rich history with modern innovation. With its charming old town, vibrant cultural scene, and strong focus on education and technology, Odense offers a unique mix of tradition and progress.
 
-At the heart of this vibrant environment, the University of Southern Denmark (SDU) has been dedicated to fostering talent and advancing research since its establishment in 1966.From its main campus in Odense to its regional campuses in Slagelse, Kolding, Esbjerg, and Sønderborg, SDU serves more than 27,000 students, nearly 20% of whom come from abroad, and employs over 3,800 staff members. As one of the top fifty young universities globally, SDU conducts world-class research that has a profound impact on both society and industry. Central to this ambition is the Department of Mathematics and Computer Science, where highly specialized researchers from around the world work on advanced projects that address both theoretical and practical challenges. The department’s interdisciplinary approach spans academia, business, and society, offering expertise in areas that are crucial for tackling complex issues in today’s world. Hosting several respected research centers, the department plays a key role in driving SDU’s innovation agenda, contributing significantly to both academic excellence and practical solutions that benefit a wide range of sectors inthe Danish society.
+At the heart of this vibrant environment, the University of Southern Denmark (SDU) has been dedicated to fostering talent and advancing research since its establishment in 1966. From its main campus in Odense to its regional campuses in Slagelse, Kolding, Esbjerg, and Sønderborg, SDU serves more than 27,000 students, nearly 20% of whom come from abroad, and employs over 3,800 staff members. As one of the top fifty young universities globally, SDU conducts world-class research that has a profound impact on both society and industry. Central to this ambition is the Department of Mathematics and Computer Science, where highly specialized researchers from around the world work on advanced projects that address both theoretical and practical challenges. The department’s interdisciplinary approach spans academia, business, and society, offering expertise in areas that are crucial for tackling complex issues in today’s world. Hosting several respected research centers, the department plays a key role in driving SDU’s innovation agenda, contributing significantly to both academic excellence and practical solutions that benefit a wide range of sectors inthe Danish society.
 
 # Contact
-Coming soon.
+For questions and abstract submissions, please send an email to <fosd26@lists.se.cs.uni-saarland.de>.
 
 ## Organizers
 - [Sandra Greiner](https://portal.findresearcher.sdu.dk/en/persons/greiner)
