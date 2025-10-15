@@ -45,7 +45,7 @@ The format of an FOSD meeting consists of short presentations from each particip
 <table>
   <tr>
     <td>Abstract Submission Deadline</td>
-    <td>December 3, 2025 </td>
+    <td>December 5, 2025 </td>
   </tr>
   <tr>
     <td>Notification of Acceptance</td>
