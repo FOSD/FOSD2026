@@ -35,7 +35,7 @@ The Meeting on Feature-Oriented Software Development (FOSD Meeting) is a yearly 
 - Configuration management
 - Software architecture
 
-The meeting series started 17 years ago to bring several research groups with common interests closer together. It has successfully been repeated 16 times with 20 to 50 participants each, and has established countless collaborations since. For example, see the recent past FOSD meetings: [FOSD 2025 in Köthen](https://fosd.github.io/FOSD2025/) [FOSD 2024 in Eindhoven](https://set.win.tue.nl/event/fosd-meeting-2024/), and [FOSD 2023 in Ulm](https://fosd23.uni-ulm.de/).
+The meeting series started 17 years ago to bring several research groups with common interests closer together. It has successfully been repeated 16 times with 20 to 50 participants each, and has established countless collaborations since. For example, see the recent past FOSD meetings: [FOSD 2025 in Köthen](https://fosd.github.io/FOSD2025/), [FOSD 2024 in Eindhoven](https://set.win.tue.nl/event/fosd-meeting-2024/), and [FOSD 2023 in Ulm](https://fosd23.uni-ulm.de/).
 
 The main objective is that researchers at different career stages (including undergraduate and early-career graduate students) come together to present their research, to get feedback from peers, to discuss new directions, and to initiate collaborations.
 
@@ -56,8 +56,8 @@ The format of an FOSD meeting consists of short presentations from each particip
     <td>TBD (estimated: February 2026) </td>
   </tr>
   <tr>
-    <td>FOSD Meeting 2025</td>
-    <td>March 24 - 27, 2025</td>
+    <td>FOSD Meeting 2026</td>
+    <td>March 23 - 27, 2026</td>
   </tr>
 </table>
 
