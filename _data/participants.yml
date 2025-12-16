@@ -12,7 +12,7 @@
 
 - name: Dirk Neumann
   title: "The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines"
-  university: KIT
+  university: Karlsruhe Institute of Technology
 
 - name: Evelyn Rühl
   title: Feature Localization based on Large Language Models
@@ -52,7 +52,7 @@
 
 - name: Morten Harter
   title: Modularity, Variability and Evolution for Threat Analysis and Risk Assessment
-  university: KIT
+  university: Karlsruhe Institute of Technology
 
 - name: Norbert Siegmund
   title: TBD
@@ -100,7 +100,7 @@
 
 - name: Simon Bothe
   title: Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development
-  university: KIT
+  university: Karlsruhe Institute of Technology
 
 - name: Simon Butt
   title: Reconstruction of Cardinality-Based Feature Models
@@ -120,7 +120,7 @@
 
 - name: Tim Bächle
   title: Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems
-  university: KIT
+  university: Karlsruhe Institute of Technology
 
 - name: Tim Schmidt
   title: A Revised Classification of Product Sampling for Software Product Lines
@@ -129,3 +129,4 @@
 - name: Tobias Dick
   title: Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces
   university: Saarland University
+
