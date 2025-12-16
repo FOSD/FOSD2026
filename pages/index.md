@@ -61,16 +61,22 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
 </table>
 
-{% for conf_day in site.data.schedule %}
-### Schedule {{ conf_day.day | date: "%A, %b %e" }}
+# Participants
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Title</th>
+    <th>University</th>
+  </tr>
+  {% for item in site.data.participants | sort: "name" %}
+    <tr>
+      <td width="20%">{{ item.name }}</td>
+      <td width="60%">{{ item.title }} {% if item.link != null %}<a href="{{ item.link }}" target="_blank">[slides]</a>{% endif %}</td>
+      <td width="20%">{{ item.university }}</td>
+    </tr>
+  {% endfor %}
 
-{% for session in conf_day.sessions %}
-Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }} 
-{% for talk in session.talks %}
-* **{{ talk.speaking }}**: {{ talk.title }}
-{% endfor %}
-{% endfor %}
-{% endfor %}
+</table>
 
 # Venue & Travel Information
 The FOSD Meeting 2026 will take place at University of Southern Denmark in Odense.
