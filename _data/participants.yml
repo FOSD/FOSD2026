@@ -1,0 +1,131 @@
+- name: Bjarke Hammerbak Paluszewsk
+  title: Synthesizing Feature Models from Rust Configurations with an FCA-based analysis
+  university: University of Southern Denmark
+
+- name: Christopher Rau
+  title: TBD
+  university: TU Braunschweig
+
+- name: Clemens Dubslaff
+  title: TBD
+  university: TU Eindhoven
+
+- name: Dirk Neumann
+  title: "The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines"
+  university: KIT
+
+- name: Evelyn Rühl
+  title: Feature Localization based on Large Language Models
+  university: University of Siegen
+
+- name: Francisco Jose Dominguez Mayo
+  title: Toward an Innovation-Oriented SPL Methodology for On-Premise Intelligent Systems
+  university: University of Seville
+
+- name: Francisco Sebastian Benitez Ruis Diaz
+  title: Integration of Feature Models into the Model Context Protocol (MCP) for Dynamic Configuration of Data Analysis Interfaces
+  university: University of Seville
+
+- name: Jonas Spieler
+  title: Towards Automated Parameter Optimization for N-Way Model Matching Algorithms
+  university: University of Bern
+
+- name: Kallistos Weis
+  title: "Confessions of a Vibe Coder: Using LLMs Responsibly in Research"
+  university: Saarland University
+
+- name: Lukas Abelt
+  title: Pitfalls, challenges and learnings when adopting new approaches for performance benchmarking of configurable software systems
+  university: Saarland University
+
+- name: Malte Grave
+  title: "Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems"
+  university: Johannes Kepler Universität Linz
+
+- name: Malte Lochau
+  title: Sampling-based Testing for Partial Quantum State Tomography
+  university: University of Siegen
+
+- name: Mathis Weiß
+  title: Modeling Approaches and Testing Strategies for Independent Features in Configurable Software
+  university: University of Siegen
+
+- name: Morten Harter
+  title: Modularity, Variability and Evolution for Threat Analysis and Risk Assessment
+  university: KIT
+
+- name: Norbert Siegmund
+  title: TBD
+  university: Leipzig University
+
+- name: Qingqing Dong
+  title: AI-Assisted Model Merge Recommendation for Software Product Line Variants
+  university: Saarland University
+
+- name: Rahel Sundermann
+  title: Fixing Feature Mappings
+  university: TU Braunschweig
+
+- name: Raphael Dunkel
+  title: Engineering and Selecting Machine Learning Features for Feature Models
+  university: TU Braunschweig
+
+- name: Roman Bögli
+  title: TBD
+  university: University of Bern
+
+- name: Ruben Dunkel
+  title: Towards the Extraction of Implicit Variability From R Research Scripts
+  university: TU Braunschweig
+
+- name: Sabrina Böhm
+  title: WIFI – What Is a Feature Interaction?
+  university: Ulm University
+
+- name: Sandra Greiner
+  title: TBD
+  university: University of Southern Denmark
+
+- name: Sebastian Böhm
+  title: Exploring the Effects of Feature Granularity and Data-Flow Complexity on Program Comprehension
+  university: Saarland University
+
+- name: Sebastian Krieter
+  title: TBD
+  university: TU Braunschweig
+
+- name: Sebastian Simon
+  title: "A Socio-Technical Perspective on Configuration Spaces: Insights into Technology Ecosystems, Contributor Dynamics, and Evolution in Open-Source Software Projects"
+  university: Leipzig University
+
+- name: Simon Bothe
+  title: Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development
+  university: KIT
+
+- name: Simon Butt
+  title: Reconstruction of Cardinality-Based Feature Models
+  university: University of Siegen
+
+- name: Stefan Sobernig
+  title: Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender
+  university: WU Wien
+
+- name: Sude Ergün
+  title: Spectro-Configurational Performance Prognostics
+  university: Saarland University
+
+- name: Thomas Thüm
+  title: TBD
+  university: TU Braunschweig
+
+- name: Tim Bächle
+  title: Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems
+  university: KIT
+
+- name: Tim Schmidt
+  title: A Revised Classification of Product Sampling for Software Product Lines
+  university: Ulm University
+
+- name: Tobias Dick
+  title: Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces
+  university: Saarland University
