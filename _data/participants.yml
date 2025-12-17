@@ -71,7 +71,7 @@
   university: TU Braunschweig
 
 - name: Roman Bögli
-  title: TBD
+  title: On the Formal Foundation for Modeling Community-Driven Variability 
   university: University of Bern
 
 - name: Ruben Dunkel
@@ -91,7 +91,7 @@
   university: Saarland University
 
 - name: Sebastian Krieter
-  title: TBD
+  title: Specifying Semantics for Complex Feature Diagrams 
   university: TU Braunschweig
 
 - name: Sebastian Simon
@@ -129,4 +129,5 @@
 - name: Tobias Dick
   title: Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces
   university: Saarland University
+
 
