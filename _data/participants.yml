@@ -3,7 +3,7 @@
   university: University of Southern Denmark
 
 - name: Christopher Rau
-  title: TBD
+  title: Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing
   university: TU Braunschweig
 
 - name: Clemens Dubslaff
@@ -129,5 +129,6 @@
 - name: Tobias Dick
   title: Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces
   university: Saarland University
+
 
 
