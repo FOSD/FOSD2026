@@ -85,6 +85,29 @@ Odense is the third-largest city in Denmark, located on the island of Funen. Kno
 
 At the heart of this vibrant environment, the University of Southern Denmark (SDU) has been dedicated to fostering talent and advancing research since its establishment in 1966. From its main campus in Odense to its regional campuses in Slagelse, Kolding, Esbjerg, and Sønderborg, SDU serves more than 27,000 students, nearly 20% of whom come from abroad, and employs over 3,800 staff members. As one of the top fifty young universities globally, SDU conducts world-class research that has a profound impact on both society and industry. Central to this ambition is the Department of Mathematics and Computer Science, where highly specialized researchers from around the world work on advanced projects that address both theoretical and practical challenges. The department’s interdisciplinary approach spans academia, business, and society, offering expertise in areas that are crucial for tackling complex issues in today’s world. Hosting several respected research centers, the department plays a key role in driving SDU’s innovation agenda, contributing significantly to both academic excellence and practical solutions that benefit a wide range of sectors inthe Danish society.
 
+## Traveling to Odense
+
+### By train:
+  Getting to Odense is most confeniently taking a train, which stops at Odense’s main station (Odense St.). Trains are operated by [DSB](https://www.dsb.dk/en/) and tickets can be bought on their website.
+  Coming from Germany, the easiest connection is the EC Hamburg-Copenhagen which takes approx **3.5 hours** and runs every 2 hours. Tickets can be bought from [Deutsche Bahn](https://int.bahn.de/en?dbkanal_007=sprachauswahl-en).
+
+### By plain:
+
+* _Copenhagen Airport_ (CPH): There is a direct train line to Odense from the airport. The ticketing office and the exit to the platforms is in the lobby of Terminal 3 at the airport. 
+Travel time: approximately **1.5 hours**.
+
+* _Billund Airport_ (BLL): The trip from Billund Airport is a combined bus+train ride. There is a direct bus line from Billund Airport to **Vejle** main train station. From there, you can take a direct train to Odense. Travel time: approximately **2 hours**.
+
+* _Aarhus Airport_ (AAR): The trip from Aarhus Airport is also a combined bus+train ride. There is a direct bus line to Aarhus Train Station (Aarhus H). From there, you can take a direct train to Odense. Travel time: approximately **2.5 hours**.
+
+## Getting around in Odense
+
+Starting from the train station, it is easiest to take the light rail train (Letbane) to reach SDU. Tickets can be bought directly from [Odense Letbane](https://letbanebillet.dk/) or by scanning the QR-Code on the stations. You can recognize the stations based on the large O. 
+
+From other places, you can take the bus (operated by [FynBus](https://en.fynbus.dk/)). You can plan your trips using  [Rejseplanen](https://www.rejseplanen.dk) (Journey Planner) and follow its instructions. Tickets can be purchased through [Rejsebillet](https://www.rejsekort.dk/da/rejsebillet?sc_lang=en).
+
+Apart from that, many sight in the inner city can easily be reached by foot.
+
 # Contact
 For questions and abstract submissions, please send an email to <fosd26@lists.se.cs.uni-saarland.de>.
 
