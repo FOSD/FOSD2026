@@ -91,11 +91,12 @@ At the heart of this vibrant environment, the University of Southern Denmark (SD
 
 ## Traveling to Odense
 
-### By train:
-  Getting to Odense is most confeniently taking a train, which stops at Odense’s main station (Odense St.). Trains are operated by [DSB](https://www.dsb.dk/en/) and tickets can be bought on their website.
-  Coming from Germany, the easiest connection is the EC Hamburg-Copenhagen which takes approx **3.5 hours** and runs every 2 hours. Tickets can be bought from [Deutsche Bahn](https://int.bahn.de/en?dbkanal_007=sprachauswahl-en).
+### Arrival by Train
+Getting to Odense is most convenient by train, which stops at Odense’s main station (Odense St.). Trains are operated by [DSB](https://www.dsb.dk/en/) and tickets can be bought on their website.
+  
+Coming from Germany, the easiest connection is the EC Hamburg-Copenhagen which takes approximately **3.5 hours** and runs every 2 hours. Tickets can be bought from [Deutsche Bahn](https://int.bahn.de/en?dbkanal_007=sprachauswahl-en).
 
-### By plain:
+### Arrival by Plane
 
 * _Copenhagen Airport_ (CPH): There is a direct train line to Odense from the airport. The ticketing office and the exit to the platforms is in the lobby of Terminal 3 at the airport. 
 Travel time: approximately **1.5 hours**.
