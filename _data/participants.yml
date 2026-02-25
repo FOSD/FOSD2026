@@ -6,10 +6,6 @@
   title: Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing
   university: TU Braunschweig
 
-- name: Clemens Dubslaff
-  title: TBD
-  university: TU Eindhoven
-
 - name: Dirk Neumann
   title: "The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines"
   university: Karlsruhe Institute of Technology
@@ -57,10 +53,6 @@
 - name: Norbert Siegmund
   title: TBD
   university: Leipzig University
-
-- name: Qingqing Dong
-  title: AI-Assisted Model Merge Recommendation for Software Product Line Variants
-  university: Saarland University
 
 - name: Rahel Sundermann
   title: Fixing Feature Mappings
@@ -129,6 +121,7 @@
 - name: Tobias Dick
   title: Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces
   university: Saarland University
+
 
 
 
