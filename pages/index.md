@@ -43,7 +43,7 @@ The format of an FOSD meeting consists of short presentations from each particip
 
 ## Supporters
 
-
+<a href="https://www.carlsbergfondet.dk/en"><img src="assets/img/cf-logo.jpg" alt="Carlsberg-Logo" style="width: 60%;"></a>
 
 ## Important Dates
 <table>
@@ -57,7 +57,7 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
   <tr>
     <td>Registration Deadline</td>
-    <td>TBD (estimated: February 2026) </td>
+    <td>March 12, 2026 </td>
   </tr>
   <tr>
     <td>FOSD Meeting 2026</td>
@@ -66,13 +66,14 @@ The format of an FOSD meeting consists of short presentations from each particip
 </table>
 
 # Participants
+{% assign sorted_participants = site.data.participants | sort: 'name' %}
 <table>
   <tr>
     <th>Name</th>
     <th>Title</th>
     <th>University</th>
   </tr>
-  {% for item in site.data.participants | sort: "name" %}
+  {% for item in sorted_participants %}
     <tr>
       <td width="20%">{{ item.name }}</td>
       <td width="55%">{{ item.title }} {% if item.link != null %}<a href="{{ item.link }}" target="_blank">[slides]</a>{% endif %}</td>
@@ -84,7 +85,10 @@ The format of an FOSD meeting consists of short presentations from each particip
 
 # Venue & Travel Information
 The FOSD Meeting 2026 will take place at University of Southern Denmark in Odense.
-
+<div style="display: flex; gap: 15px; margin: 10px 0;">
+  <img src="assets/img/paaskestræde-small.jpg" alt="Odense street view" style="width: 49%;">
+  <img src="assets/img/nelles.jpg" alt="Odense main entrance" style="width: 49%;">
+</div>
 Odense is the third-largest city in Denmark, located on the island of Funen. Known as the birthplace of famous fairy tale writer Hans Christian Andersen, the city blends rich history with modern innovation. With its charming old town, vibrant cultural scene, and strong focus on education and technology, Odense offers a unique mix of tradition and progress.
 
 At the heart of this vibrant environment, the University of Southern Denmark (SDU) has been dedicated to fostering talent and advancing research since its establishment in 1966. From its main campus in Odense to its regional campuses in Slagelse, Kolding, Esbjerg, and Sønderborg, SDU serves more than 27,000 students, nearly 20% of whom come from abroad, and employs over 3,800 staff members. As one of the top fifty young universities globally, SDU conducts world-class research that has a profound impact on both society and industry. Central to this ambition is the Department of Mathematics and Computer Science, where highly specialized researchers from around the world work on advanced projects that address both theoretical and practical challenges. The department’s interdisciplinary approach spans academia, business, and society, offering expertise in areas that are crucial for tackling complex issues in today’s world. Hosting several respected research centers, the department plays a key role in driving SDU’s innovation agenda, contributing significantly to both academic excellence and practical solutions that benefit a wide range of sectors inthe Danish society.
