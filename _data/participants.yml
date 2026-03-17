@@ -22,10 +22,6 @@
   title: Integration of Feature Models into the Model Context Protocol (MCP) for Dynamic Configuration of Data Analysis Interfaces
   university: University of Seville
 
-- name: Jonas Spieler
-  title: Towards Automated Parameter Optimization for N-Way Model Matching Algorithms
-  university: University of Bern
-
 - name: Kallistos Weis
   title: "Confessions of a Vibe Coder: Using LLMs Responsibly in Research"
   university: Saarland University
@@ -70,10 +66,6 @@
   title: Towards the Extraction of Implicit Variability From R Research Scripts
   university: TU Braunschweig
 
-- name: Sabrina Böhm
-  title: WIFI – What Is a Feature Interaction?
-  university: Ulm University
-
 - name: Sandra Greiner
   title: TBD
   university: University of Southern Denmark
@@ -107,16 +99,12 @@
   university: Saarland University
 
 - name: Thomas Thüm
-  title: TBD
+  title: WIFI - What is a Feature Interaction?
   university: TU Braunschweig
 
 - name: Tim Bächle
   title: Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems
   university: Karlsruhe Institute of Technology
-
-- name: Tim Schmidt
-  title: A Revised Classification of Product Sampling for Software Product Lines
-  university: Ulm University
 
 - name: Tobias Dick
   title: Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces
