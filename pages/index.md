@@ -65,6 +65,40 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
 </table>
 
+# Keynotes
+
+<b>Variability in Formal Methods: the cases of Lean and CSLib</b><br>
+<i>Fabrizio Montesi (University of Southern Denmark)</i>
+
+AI systems for coding are making impressive progress, but they are also infamous for making mistakes. At the same time, AI has become effective at finding vulnerabilities – an easier problem compared to producing bug-free code. In response to this pressure, another wave has been rising like never before: the development of formal methods and proof assistants for the mechanical verification of code and models. 
+
+CSLib is a global initiative to formalise the world's knowledge on computer science and put it to use for real-world software development, using Lean as the engine for proof development and verification. The aim is to offer a platform powerful enough to help in the machine-checked development of new results and programs, developed by AI or humans. The success of CSLib requires finding reusable abstractions and providing shared infrastructure, which is challenging when formalising computer science. A lot of theories and systems are extensions or variants of others, which can lead to lots of copy-pasting and fragmentation. Variability, therefore, plays a crucial role. 
+
+In this talk, I will give an introduction to CSLib and present some of the variability challenges in maintaining such a broad codebase of computer science. I will then engage in an open, hands-on conversation about how the formal methods and variability communities can mutually benefit from each other and join forces in contributing to a future where software and computer science results at large – even those produced by AI – come with machine-checkable specifications and proofs of what they do.
+
+Fabrizio Montesi is Professor of Computer Science at the University of Southern Denmark (SDU) and Chair at the Danish Institute for Advanced Study (DIAS). He is Director of FORM – the Centre for Formal Methods and Future Computing – and Head of the Section of Artificial Intelligence, Cybersecurity, and Programming Languages at SDU.
+His work focuses on programming languages and systems, formal methods and reasoning, distributed systems, and trustworthy computing, with particular contributions to choreographic programming, microservices, and the verification of computer systems. 
+
+---
+
+<b>Variability Never Rests: From ECU Development Through Production to Aftersales in Automotive OEM Systems</b><br>
+<i>Oliver Kopp (University of Hamburg)</i>
+
+Automotive original equipment manufacturers (OEMs) operate among the most demanding software product line environments on the planet. A single vehicle model may involve 40–200 Electronic Control Units (ECUs), over 100 million lines of code, and millions of theoretically valid variant configurations — yet every car rolling off the line is exactly one of them.
+
+This keynote argues that variability in automotive systems is not a modelling problem confined to development time. It is a lifecycle-spanning operational challenge: a variant decision made during ECU development or by the customer at order time determines what is tested on the assembly line, which item selection rules fire in production, and which spare parts a workshop can actually install a decade later.
+
+Drawing on three lines of industrial research — distributed ECU integration for automotive OEMs, executable variant-aware test workflows in software-defined car manufacturing, and graphical tooling for item selection rules in feature combination rule contexts — this talk traces variability through four lifecycle phases: ECU development, ECU testing, production, and aftersales. At each phase, we identify concrete industrial challenges that invite closer collaboration between variability research and automotive practice.
+
+Dr. Oliver Kopp is Acting Professor at the University of Hamburg, leading the Software Engineering and Construction Methods (SWK) group. His current research focuses on software architecture and making architectural decisions sustainable and usable in practice — most notably through the widely adopted Markdown Architectural Decision Records (MADR) format and its successor YADR, both developed in the open-source adr community. His broader work spans software engineering, business process management, and cyber-physical systems — including earlier industrial research on variability in automotive OEM systems that forms the basis of this keynote.
+
+---
+
+<b>TBD</b><br>
+<i>Bianca Wiesmayr (Johannes Kepler University Linz)</i>
+
+Bianca Wiesmayr is a postdoctoral researcher at the Institute of Business Informatics - Software Engineering in Linz, where she leads a research project on model-driven control software engineering. She has completed her doctoral degree in technical sciences in 2023 (subject computer science) at the Johannes Kepler University in Linz, Austria. She researches model-driven methods for developing automation software and the usability of modeling tools. Her dissertation investigated the use of behavior models for the implementation and maintenance of control software in the domain-specific modeling language defined in IEC 61499. In addition to her research, she is an active software developer for the open-source development environment Eclipse 4diac, which provides an infrastructure for engineering Industry 4.0 and IIoT systems and is used in industry and academia.
+
 # Participants
 {% assign sorted_participants = site.data.participants | sort: 'name' %}
 <table>
