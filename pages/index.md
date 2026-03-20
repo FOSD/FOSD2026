@@ -161,27 +161,18 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>09:15</td>
     <td>
-      <b>Session 1:</b>
-      <ul>
-        <li>Talk 1</li>
-        <li>Talk 2</li>
-        <li>Talk 3</li>
-      </ul>
+      <b>Keynote:</b> Fabrizio Montesi (University of Southern Denmark)<br>
+      <i>Variability in Formal Methods: the cases of Lean and CSLib</i>
     </td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td>10:15</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>11:00</td>
+    <td>10:45</td>
     <td>
-      <b>Session 2:</b>
-      <ul>
-        <li>Talk 4</li>
-        <li>Talk 5</li>
-        <li>Talk 6</li>
-      </ul>
+      <b>Session 1</b>
     </td>
   </tr>
   <tr>
@@ -189,29 +180,19 @@ The list of speakers for each session will be announced on the preceding day.
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>13:30</td>
+    <td>13:15</td>
     <td>
-      <b>Session 3:</b>
-      <ul>
-        <li>Talk 7</li>
-        <li>Talk 8</li>
-        <li>Talk 9</li>
-      </ul>
+      <b>Session 2</b>
     </td>
   </tr>
   <tr>
-    <td>14:45</td>
+    <td>14:30</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>15:15</td>
+    <td>15:00</td>
     <td>
-      <b>Session 4:</b>
-      <ul>
-        <li>Talk 10</li>
-        <li>Talk 11</li>
-        <li>Talk 12</li>
-      </ul>
+      <b>Session 3</b>
     </td>
   </tr>
   <tr>
@@ -239,39 +220,30 @@ The list of speakers for each session will be announced on the preceding day.
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td>10:45</td>
     <td>
-      <b>Session 5:</b>
-      <ul>
-        <li>Talk 13</li>
-        <li>Talk 14</li>
-        <li>Talk 15</li>
-        <li>Talk 16</li>
-      </ul>
+      <b>Session 4</b>
     </td>
   </tr>
   <tr>
-    <td>12:15</td>
+    <td>12:00</td>
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>13:30</td>
+    <td>13:00</td>
     <td>
-      <b>Session 6:</b>
-      <ul>
-        <li>Talk 17</li>
-        <li>Talk 18</li>
-        <li>Talk 19</li>
-      </ul>
+      <b>Session 5</b>
     </td>
   </tr>
   <tr>
-    <td>14:45</td>
+    <td>14:15</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>16:00</td>
-    <td>Brands &amp; Cafe Biografen</td>
+    <td>14:45</td>
+    <td>
+      <b>Session 6</b>
+    </td>
   </tr>
   <tr>
     <td>from 18:30</td>
@@ -294,51 +266,38 @@ The list of speakers for each session will be announced on the preceding day.
     </td>
   </tr>
   <tr>
-    <td>10:00</td>
+    <td>10:15</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td>10:45</td>
     <td>
-      <b>Session 7:</b>
-      <ul>
-        <li>Talk 20</li>
-        <li>Talk 21</li>
-        <li>Talk 22</li>
-        <li>Talk 23</li>
-      </ul>
+      <b>Session 7</b>
     </td>
   </tr>
   <tr>
-    <td>12:15</td>
+    <td>12:00</td>
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>13:30</td>
+    <td>13:00</td>
     <td>
-      <b>Session 8:</b>
-      <ul>
-        <li>Talk 24</li>
-        <li>Talk 25</li>
-        <li>Talk 26</li>
-      </ul>
+      <b>Session 8</b>
     </td>
   </tr>
   <tr>
-    <td>14:45</td>
+    <td>13:50</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>15:15</td>
+    <td>14:15</td>
     <td>
-      <b>Session 9:</b>
-      <ul>
-        <li>Talk 27</li>
-        <li>Talk 28</li>
-        <li>Talk 29</li>
-        <li>Talk 30</li>
-      </ul>
+      <b>Session 9</b>
     </td>
+  </tr>
+  <tr>
+    <td>16:45</td>
+    <td>Brands and Cafe Biografen</td>
   </tr>
   <tr>
     <td>from 18:30</td>
@@ -354,31 +313,28 @@ The list of speakers for each session will be announced on the preceding day.
     <th>Friday (28th March)</th>
   </tr>
   <tr>
-    <td>09:15</td>
+    <td>09:00</td>
     <td>
-      <b>Keynote:</b> Fabrizio Montesi (University of Southern Denmark)<br>
-      <i>Variability in Formal Methods: the cases of Lean and CSLib</i>
+      <b>Session 10</b>
     </td>
   </tr>
   <tr>
-    <td>10:00</td>
+    <td>09:50</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td>10:00</td>
     <td>
-      <b>Session 10:</b>
-      <ul>
-        <li>Talk 31</li>
-        <li>Talk 32</li>
-        <li>Talk 33</li>
-        <li>Talk 34</li>
-      </ul>
+      <b>Session 11</b>
     </td>
   </tr>
   <tr>
-    <td>12:15</td>
-    <td>Farewell</td>
+    <td>10:50</td>
+    <td>Closing</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td>(Takeaway) Lunch</td>
   </tr>
 </table>
 
