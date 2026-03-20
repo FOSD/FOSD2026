@@ -109,6 +109,279 @@ programming/modeling languages in various environments.
 
 __CV:__ Bianca Wiesmayr is a postdoctoral researcher at the Institute of Business Informatics - Software Engineering in Linz, where she leads a research project on model-driven control software engineering. She has completed her doctoral degree in technical sciences in 2023 (subject computer science) at the Johannes Kepler University in Linz, Austria. She researches model-driven methods for developing automation software and the usability of modeling tools. Her dissertation investigated the use of behavior models for the implementation and maintenance of control software in the domain-specific modeling language defined in IEC 61499. In addition to her research, she is an active software developer for the open-source development environment Eclipse 4diac, which provides an infrastructure for engineering Industry 4.0 and IIoT systems and is used in industry and academia.
 
+# Program
+
+## Rooms
+
+<b>Getting to the university:</b> Coming from the city, the easiest way on all days is to take the Letbane and exit at <b>SDU University</b> (not SDU Campus). This is the second stop with SDU in the name.
+
+<b>Tuesday reception</b> from 17:00 at <b>IMADA Forskertorv</b>: <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb9ac423b7d0540c9a914" target="_blank">view on map</a>
+
+<b>Tuesday &amp; Wednesday - Room U48:</b> <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cba14423b7d0540c9ac7d" target="_blank">view on map</a><br>
+From the stop, turn directly left towards entrance <b>Gydehutten S</b>. From there, take the stairs up to the second floor. U48 will be right in front of you.
+
+Thursday &amp; Friday - IMADA Conference Room:</b> <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb9be423b7d0540c9a9aa" target="_blank">view on map</a><br>
+We will show the room at the reception.
+
+
+## Schedule
+
+The list of speakers for each session will be announced on the preceding day.
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Monday (24th March)</th>
+  </tr>
+  <tr>
+    <td>during the day</td>
+    <td>Arrival</td>
+  </tr>
+  <tr>
+    <td>19:00 – open end</td>
+    <td>Storms Pakhus</td>
+  </tr>
+
+  <tr>
+    <td style="border-left: none; border-right: none;"></td>
+    <td style="border-left: none; border-right: none;"></td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>Tuesday (25th March)</th>
+  </tr>
+  <tr>
+    <td>08:45</td>
+    <td>Registration</td>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td>Opening</td>
+  </tr>
+  <tr>
+    <td>09:15</td>
+    <td>
+      <b>Session 1:</b>
+      <ul>
+        <li>Talk 1</li>
+        <li>Talk 2</li>
+        <li>Talk 3</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td>
+      <b>Session 2:</b>
+      <ul>
+        <li>Talk 4</li>
+        <li>Talk 5</li>
+        <li>Talk 6</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>12:15</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30</td>
+    <td>
+      <b>Session 3:</b>
+      <ul>
+        <li>Talk 7</li>
+        <li>Talk 8</li>
+        <li>Talk 9</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>14:45</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>15:15</td>
+    <td>
+      <b>Session 4:</b>
+      <ul>
+        <li>Talk 10</li>
+        <li>Talk 11</li>
+        <li>Talk 12</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>from 17:00</td>
+    <td>Reception at IMADA Forskertorv</td>
+  </tr>
+
+  <tr>
+    <td style="border-left: none; border-right: none;"></td>
+    <td style="border-left: none; border-right: none;"></td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>Wednesday (26th March)</th>
+  </tr>
+  <tr>
+    <td>09:15</td>
+    <td>
+      <b>Keynote:</b> Bianca Wiesmayr (Johannes Kepler University Linz) <br>
+      <i>Managing language variants in software engineering for variant-rich production systems</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td>
+      <b>Session 5:</b>
+      <ul>
+        <li>Talk 13</li>
+        <li>Talk 14</li>
+        <li>Talk 15</li>
+        <li>Talk 16</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>12:15</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30</td>
+    <td>
+      <b>Session 6:</b>
+      <ul>
+        <li>Talk 17</li>
+        <li>Talk 18</li>
+        <li>Talk 19</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>14:45</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td>Brands &amp; Cafe Biografen</td>
+  </tr>
+  <tr>
+    <td>from 18:30</td>
+    <td>Dinner at Vivaldi</td>
+  </tr>
+
+  <tr>
+    <td style="border-left: none; border-right: none;"></td>
+    <td style="border-left: none; border-right: none;"></td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>Thursday (27th March)</th>
+  </tr>
+  <tr>
+    <td>09:15</td>
+    <td>
+      <b>Keynote:</b> Oliver Kopp (University of Hamburg)<br>
+      <i>Variability Never Rests: From ECU Development Through Production to Aftersales in Automotive OEM Systems</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td>
+      <b>Session 7:</b>
+      <ul>
+        <li>Talk 20</li>
+        <li>Talk 21</li>
+        <li>Talk 22</li>
+        <li>Talk 23</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>12:15</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30</td>
+    <td>
+      <b>Session 8:</b>
+      <ul>
+        <li>Talk 24</li>
+        <li>Talk 25</li>
+        <li>Talk 26</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>14:45</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>15:15</td>
+    <td>
+      <b>Session 9:</b>
+      <ul>
+        <li>Talk 27</li>
+        <li>Talk 28</li>
+        <li>Talk 29</li>
+        <li>Talk 30</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>from 18:30</td>
+    <td>Dinner at Marcantonio</td>
+  </tr>
+
+  <tr>
+    <td style="border-left: none; border-right: none;"></td>
+    <td style="border-left: none; border-right: none;"></td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>Friday (28th March)</th>
+  </tr>
+  <tr>
+    <td>09:15</td>
+    <td>
+      <b>Keynote:</b> Fabrizio Montesi (University of Southern Denmark)<br>
+      <i>Variability in Formal Methods: the cases of Lean and CSLib</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td>
+      <b>Session 10:</b>
+      <ul>
+        <li>Talk 31</li>
+        <li>Talk 32</li>
+        <li>Talk 33</li>
+        <li>Talk 34</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>12:15</td>
+    <td>Farewell</td>
+  </tr>
+</table>
+
 # Participants
 {% assign sorted_participants = site.data.participants | sort: 'name' %}
 <table>
