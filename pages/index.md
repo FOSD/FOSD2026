@@ -120,7 +120,7 @@ __CV:__ Bianca Wiesmayr is a postdoctoral researcher at the Institute of Busines
 <b>Tuesday &amp; Wednesday - Room U48:</b> <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cba14423b7d0540c9ac7d" target="_blank">view on map</a><br>
 From the stop, turn directly left towards entrance <b>Gydehutten S</b>. From there, take the stairs up to the second floor. U48 will be right in front of you.
 
-Thursday &amp; Friday - IMADA Conference Room:</b> <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb9be423b7d0540c9a9aa" target="_blank">view on map</a><br>
+<b>Thursday &amp; Friday - IMADA Conference Room:</b> <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb9be423b7d0540c9a9aa" target="_blank">view on map</a><br>
 We will show the room at the reception.
 
 
@@ -131,7 +131,7 @@ The list of speakers for each session will be announced on the preceding day.
 <table>
   <tr>
     <th>Time</th>
-    <th>Monday (24th March)</th>
+    <th>Monday (23th March)</th>
   </tr>
   <tr>
     <td>during the day</td>
@@ -148,7 +148,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Tuesday (25th March)</th>
+    <th>Tuesday (24th March)</th>
   </tr>
   <tr>
     <td>08:45</td>
@@ -206,7 +206,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Wednesday (26th March)</th>
+    <th>Wednesday (25th March)</th>
   </tr>
   <tr>
     <td>09:15</td>
@@ -256,7 +256,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Thursday (27th March)</th>
+    <th>Thursday (26th March)</th>
   </tr>
   <tr>
     <td>09:15</td>
@@ -297,11 +297,11 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>16:45</td>
-    <td>Brands and Cafe Biografen</td>
+    <td>Brands Museum</td>
   </tr>
   <tr>
     <td>from 18:30</td>
-    <td>Dinner at Marcantonio</td>
+    <td>Dinner </td>
   </tr>
 
   <tr>
@@ -310,7 +310,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Friday (28th March)</th>
+    <th>Friday (27th March)</th>
   </tr>
   <tr>
     <td>09:00</td>
