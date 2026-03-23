@@ -139,7 +139,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>19:00 – open end</td>
-    <td>Storms Pakhus</td>
+    <td><a href="https://stormspakhus.dk/"> Storms Pakhus</a></td>
   </tr>
 
   <tr>
@@ -148,7 +148,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Tuesday (24th March)</th>
+    <th>Tuesday (24th March), <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cba14423b7d0540c9ac7d">U48</a></th> 
   </tr>
   <tr>
     <td>08:45</td>
@@ -221,7 +221,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Wednesday (25th March)</th>
+    <th>Wednesday (25th March), <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cba14423b7d0540c9ac7d">U48</a></th>
   </tr>
   <tr>
     <td>09:15</td>
@@ -271,7 +271,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Thursday (26th March)</th>
+    <th>Thursday (26th March), <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb9be423b7d0540c9a9aa">IMADA Conference room</a></th>
   </tr>
   <tr>
     <td>09:15</td>
@@ -325,7 +325,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <th>Time</th>
-    <th>Friday (27th March)</th>
+    <th>Friday (27th March), <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb9be423b7d0540c9a9aa">IMADA Conference room</a></th>
   </tr>
   <tr>
     <td>09:00</td>
