@@ -173,6 +173,11 @@ The list of speakers for each session will be announced on the preceding day.
     <td>10:45</td>
     <td>
       <b>Session 1</b>
+       <ul>
+        <li>Malte Lochau (University of Siegen)<br><i>Sampling-based Testing for Partial Quantum State Tomography</i></li>
+        <li>Tim Bächle (Karlsruhe Institute of Technology)<br><i>Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems</i></li>
+        <li>Rahel Sundermann (TU Braunschweig)<br><i>Fixing Feature Mappings</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -183,6 +188,11 @@ The list of speakers for each session will be announced on the preceding day.
     <td>13:15</td>
     <td>
       <b>Session 2</b>
+      <ul>
+        <li>Mathis Weiß (University of Siegen)<br><i>Modeling Approaches and Testing Strategies for Independent Features in Configurable Software</i></li>
+        <li>Norbert Siegmund (Leipzig University)<br><i>TBD</i></li>
+        <li>Tobias Dick (Saarland University)<br><i>Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -193,6 +203,11 @@ The list of speakers for each session will be announced on the preceding day.
     <td>15:00</td>
     <td>
       <b>Session 3</b>
+        <ul>
+          <li>Sebastian Böhm (Saarland University)<br><i>Exploring the Effects of Feature Granularity and Data-Flow Complexity on Program Comprehension</i></li>
+          <li>Sebastian Krieter (TU Braunschweig)<br><i>Specifying Semantics for Complex Feature Diagrams</i></li>
+          <li>Sebastian Simon (Leipzig University)<br><i>A Socio-Technical Perspective on Configuration Spaces: Insights into Technology Ecosystems, Contributor Dynamics, and Evolution in Open-Source Software Projects</i></li>
+        </ul>
     </td>
   </tr>
   <tr>
@@ -247,7 +262,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>from 18:30</td>
-    <td>Dinner at Vivaldi</td>
+    <td>Dinner</td>
   </tr>
 
   <tr>
