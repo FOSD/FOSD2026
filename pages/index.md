@@ -231,7 +231,7 @@ The list of speakers for each session will be announced on the preceding day.
     </td>
   </tr>
   <tr>
-    <td>10:00</td>
+    <td>10:15</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
@@ -409,8 +409,12 @@ Apart from that, many sight in the inner city can easily be reached by foot.
 For questions and abstract submissions, please send an email to <fosd26@lists.se.cs.uni-saarland.de>.
 
 ## Organizers
-- [Sandra Greiner](https://portal.findresearcher.sdu.dk/en/persons/greiner)
+- [Sandra Greiner](https://sandragreiner.github.io/)
 - [Tobias Dick](https://www.se.cs.uni-saarland.de/people/dick.php)
+
+### Local Organization
+
+- [Ursula Lundgreen Svane](https://portal.findresearcher.sdu.dk/da/persons/ursula-lundgreen-svane/)
 
 ## Steering Committee
 - [Sven Apel](https://www.se.cs.uni-saarland.de/apel/)
