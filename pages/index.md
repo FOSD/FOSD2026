@@ -191,7 +191,7 @@ The list of speakers for each session will be announced on the preceding day.
       <ul>
         <li>Mathis Weiß (University of Siegen)<br><i>Modeling Approaches and Testing Strategies for Independent Features in Configurable Software</i></li>
         <li>Norbert Siegmund (Leipzig University)<br><i>TBD</i></li>
-        <li>Tobias Dick (Saarland University)<br><i>Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces</i></li>
+        <li>Tobias Dick (Saarland University)<br><i>Exceptional Configuration Subspaces with Subgroup Discovery: What Works Best?</i></li>
       </ul>
     </td>
   </tr>
@@ -238,6 +238,11 @@ The list of speakers for each session will be announced on the preceding day.
     <td>10:45</td>
     <td>
       <b>Session 4</b>
+      <ul>
+        <li>Malte Grave (Johannes Kepler Universität Linz)<br><i>Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems</i></li>
+        <li>Dirk Neumann (KIT)<br><i>The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines</i></li>
+        <li>Simon Bothe (KIT)<br><i>Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -248,6 +253,11 @@ The list of speakers for each session will be announced on the preceding day.
     <td>13:00</td>
     <td>
       <b>Session 5</b>
+      <ul>
+        <li>Francisco Mayo (University of Seville)<br><i>Toward an Innovation-Oriented SPL Methodology for On-Premise Intelligent Systems</i></li>
+        <li>Christopher Rau (TU Braunschweig)<br><i>Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing</i></li>
+        <li>Raphael Dunkel (TU Braunschweig)<br><i>Engineering and Selecting Machine Learning Features for Feature Models</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -258,6 +268,11 @@ The list of speakers for each session will be announced on the preceding day.
     <td>14:45</td>
     <td>
       <b>Session 6</b>
+      <ul>
+        <li>Bjarke Hamerbak Pawulewski (University of Southern Denmark)<br><i>Feature Model Synthesis</i></li>
+        <li>Simon Butt (University of Siegen)<br><i>Reconstruction of Cardinality-Based Feature Models</i></li>
+        <li>Stefan Sobernig (WU Wien)<br><i>Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -351,24 +366,6 @@ The list of speakers for each session will be announced on the preceding day.
     <td>11:00</td>
     <td>(Takeaway) Lunch</td>
   </tr>
-</table>
-
-# Participants
-{% assign sorted_participants = site.data.participants | sort: 'name' %}
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Title</th>
-    <th>University</th>
-  </tr>
-  {% for item in sorted_participants %}
-    <tr>
-      <td width="20%">{{ item.name }}</td>
-      <td width="55%">{{ item.title }} {% if item.link != null %}<a href="{{ item.link }}" target="_blank">[slides]</a>{% endif %}</td>
-      <td width="25%">{{ item.university }}</td>
-    </tr>
-  {% endfor %}
-
 </table>
 
 # Venue & Travel Information
