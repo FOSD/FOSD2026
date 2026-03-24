@@ -190,7 +190,7 @@ The list of speakers for each session will be announced on the preceding day.
       <b>Session 2</b>
       <ul>
         <li>Mathis Weiß (University of Siegen)<br><i>Modeling Approaches and Testing Strategies for Independent Features in Configurable Software</i></li>
-        <li>Norbert Siegmund (Leipzig University)<br><i>TBD</i></li>
+        <li>Norbert Siegmund (Leipzig University)<br><i>The Promise of Tailor-Made Software: From Tale to Reality</i></li>
         <li>Tobias Dick (Saarland University)<br><i>Exceptional Configuration Subspaces with Subgroup Discovery: What Works Best?</i></li>
       </ul>
     </td>
