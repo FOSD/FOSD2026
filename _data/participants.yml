@@ -23,7 +23,7 @@
   university: University of Seville
 
 - name: Kallistos Weis
-  title: "Confessions of a Vibe Coder: Using LLMs Responsibly in Research"
+  title: Time-Aware Performance-Influence Modeling in the Spectral Domain
   university: Saarland University
 
 - name: Lukas Abelt
@@ -59,7 +59,7 @@
   university: TU Braunschweig
 
 - name: Roman Bögli
-  title: On the Formal Foundation for Modeling Community-Driven Variability 
+  title: Exploring Community-Driven Variability: The Bitcoin Case
   university: University of Bern
 
 - name: Ruben Dunkel
@@ -94,10 +94,6 @@
   title: Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender
   university: WU Wien
 
-- name: Sude Ergün
-  title: Spectro-Configurational Performance Prognostics
-  university: Saarland University
-
 - name: Thomas Thüm
   title: WIFI - What is a Feature Interaction?
   university: TU Braunschweig
@@ -107,7 +103,7 @@
   university: Karlsruhe Institute of Technology
 
 - name: Tobias Dick
-  title: Trade-Offs in Subgroup Discovery for Finding Exceptional Configuration Subspaces
+  title: Exceptional Configuration Subspaces with Subgroup Discovery: What Works Best?
   university: Saarland University
 
 
