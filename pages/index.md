@@ -212,7 +212,8 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>from 17:00</td>
-    <td>Reception at IMADA Forskertorv</td>
+    <td>Reception at <a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb9ac423b7d0540c9a914">IMADA Forskertorv</a> 
+    </td>
   </tr>
 
   <tr>
@@ -277,7 +278,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>from 18:30</td>
-    <td>Dinner</td>
+    <td>Dinner at Cafe Vivaldi</td>
   </tr>
 
   <tr>
@@ -331,7 +332,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>from 18:30</td>
-    <td>Dinner </td>
+    <td>Dinner at Marcantonio</td>
   </tr>
 
   <tr>
