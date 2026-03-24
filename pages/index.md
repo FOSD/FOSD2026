@@ -205,7 +205,7 @@ The list of speakers for each session will be announced on the preceding day.
       <b>Session 3</b>
         <ul>
           <li>Sebastian Böhm (Saarland University)<br><i>Exploring the Effects of Feature Granularity and Data-Flow Complexity on Program Comprehension</i></li>
-          <li>Sebastian Krieter (TU Braunschweig)<br><i>Specifying Semantics for Complex Feature Diagrams</i></li>
+          <li>Sebastian Krieter (TU Braunschweig)<br><i>Tackling Expressive FM Constructs with Pseudo-Boolean d-DNNF Compilation</i></li>
           <li>Sebastian Simon (Leipzig University)<br><i>A Socio-Technical Perspective on Configuration Spaces: Insights into Technology Ecosystems, Contributor Dynamics, and Evolution in Open-Source Software Projects</i></li>
         </ul>
     </td>
