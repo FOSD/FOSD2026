@@ -278,7 +278,8 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>from 18:30</td>
-    <td>Dinner at Cafe Vivaldi</td>
+    <td>Dinner at <a href="https://cafevivaldi.dk/cafe/odense-vestergade/">Cafe Vivaldi</a>
+    </td>
   </tr>
 
   <tr>
@@ -332,7 +333,8 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>from 18:30</td>
-    <td>Dinner at Marcantonio</td>
+    <td>Dinner at <a href="https://marcantonio.dk/en/">Marcantonio</a>
+    </td>
   </tr>
 
   <tr>
