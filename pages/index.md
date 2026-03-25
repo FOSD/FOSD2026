@@ -240,9 +240,9 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 4</b>
       <ul>
+        <li>Christopher Rau (TU Braunschweig)<br><i>Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing</i></li>
         <li>Malte Grave (Johannes Kepler Universität Linz)<br><i>Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems</i></li>
         <li>Dirk Neumann (KIT)<br><i>The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines</i></li>
-        <li>Simon Bothe (KIT)<br><i>Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development</i></li>
       </ul>
     </td>
   </tr>
@@ -255,9 +255,9 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 5</b>
       <ul>
+        <li>Simon Bothe (KIT)<br><i>Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development</i></li>
         <li>Francisco Mayo (University of Seville)<br><i>Toward an Innovation-Oriented SPL Methodology for On-Premise Intelligent Systems</i></li>
-        <li>Christopher Rau (TU Braunschweig)<br><i>Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing</i></li>
-        <li>Raphael Dunkel (TU Braunschweig)<br><i>Engineering and Selecting Machine Learning Features for Feature Models</i></li>
+        <li>Roman Bögli (University of Bern)<br><i>Exploring Community-Driven Variability: The Bitcoin Case</i></li>
       </ul>
     </td>
   </tr>
@@ -271,8 +271,8 @@ The list of speakers for each session will be announced on the preceding day.
       <b>Session 6</b>
       <ul>
         <li>Bjarke Hamerbak Pawulewski (University of Southern Denmark)<br><i>Feature Model Synthesis</i></li>
+        <li>Evelyn Rühl (University of Siegen)<br><i>Feature Localization based on Large Language Models</i></li>
         <li>Simon Butt (University of Siegen)<br><i>Reconstruction of Cardinality-Based Feature Models</i></li>
-        <li>Stefan Sobernig (WU Wien)<br><i>Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender</i></li>
       </ul>
     </td>
   </tr>
@@ -305,6 +305,11 @@ The list of speakers for each session will be announced on the preceding day.
     <td>10:45</td>
     <td>
       <b>Session 7</b>
+      <ul>
+        <li>Tim Schmidt (Ulm University)<br><i>A Revised Classification of Product Sampling for Software Product Lines</i></li>
+        <li>Morten Harter (KIT)<br><i>Modularity, Variability and Evolution for Threat Analysis and Risk Assessment</i></li>
+        <li>Sandra Kaae Johansen & Sofie Løfberg (University of Southern Denmark)<br><i> Why your grandma was a computer scientist? - A special configuration use case</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -315,17 +320,16 @@ The list of speakers for each session will be announced on the preceding day.
     <td>13:00</td>
     <td>
       <b>Session 8</b>
+      <ul>
+        <li>Francisco Diaz (University of Seville)<br><i>Integration of Feature Models into the Model Context Protocol (MCP) for Dynamic Configuration of Data Analysis Interfaces</i></li>
+        <li>Stefan Sobernig (WU Wien)<br><i>Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender</i></li>
+        <li>Raphael Dunkel (TU Braunschweig)<br><i>Engineering and Selecting Machine Learning Features for Feature Models</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td>13:50</td>
+    <td>14:25</td>
     <td>Coffee Break</td>
-  </tr>
-  <tr>
-    <td>14:15</td>
-    <td>
-      <b>Session 9</b>
-    </td>
   </tr>
   <tr>
     <td>16:45</td>
