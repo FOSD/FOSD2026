@@ -358,7 +358,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>09:00</td>
     <td>
-      <b>Session 10</b>
+      <b>Session 9</b>
     </td>
   </tr>
   <tr>
@@ -368,7 +368,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>10:00</td>
     <td>
-      <b>Session 11</b>
+      <b>Session 10</b>
     </td>
   </tr>
   <tr>
