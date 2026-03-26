@@ -332,13 +332,19 @@ The list of speakers for each session will be announced on the preceding day.
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>16:45</td>
-    <td>Brands Museum</td>
+    <td>16:30</td>
+    <td>
+    <a href="https://brandts.dk/"> Brandts Museum</a>
+    </td>
   </tr>
   <tr>
     <td>from 18:30</td>
     <td>Dinner at <a href="https://marcantonio.dk/en/">Marcantonio</a>
     </td>
+  </tr>
+  <tr>
+    <td>afterwards</td> 
+    <td>Papas Papbar</td>
   </tr>
 
   <tr>
