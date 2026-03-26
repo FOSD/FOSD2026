@@ -328,7 +328,7 @@ The list of speakers for each session will be announced on the preceding day.
     </td>
   </tr>
   <tr>
-    <td>14:25</td>
+    <td>14:15</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
