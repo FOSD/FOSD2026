@@ -359,6 +359,10 @@ The list of speakers for each session will be announced on the preceding day.
     <td>09:00</td>
     <td>
       <b>Session 9</b>
+      <ul>
+        <li>Thomas Thüm (TU Braunschweig)<br><i>WIFI - What is a Feature Interaction?</i></li>
+        <li>Lukas Abelt (Saarland University)<br><i>Pitfalls, challenges and learnings when adopting new approaches for performance benchmarking of configurable software systems</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -369,6 +373,10 @@ The list of speakers for each session will be announced on the preceding day.
     <td>10:00</td>
     <td>
       <b>Session 10</b>
+      <ul>
+        <li>Kallistos Weis (Saarland University)<br><i>Time-Aware Performance-Influence Modeling in the Spectral Domain</i></li>
+        <li>Ruben Dunkel (TU Braunschweig)<br><i>Towards the Extraction of Implicit Variability From R Research Scripts</i></li>
+      </ul>
     </td>
   </tr>
   <tr>
