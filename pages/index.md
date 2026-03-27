@@ -41,6 +41,8 @@ The main objective is that researchers at different career stages (including und
 
 The format of an FOSD meeting consists of short presentations from each participant with plenty of time for discussion. Young researchers (graduate and undergraduate students), as well as more senior community members, present their research, provide and get feedback from others, engage into discussions and establish new collaborations. FOSD is a place for discussion, not a publication venue. Participants can present previously published work as well as unpublished work, including early ideas and work in progress. The key is to encourage discussions, to receive feedback and to grow the network of collaborating researchers.
 
+![GroupPicture](/FOSD2026/assets/img/group.jpg)
+
 ## Supporters
 
 <a href="https://www.carlsbergfondet.dk/en"><img src="assets/img/cf-logo.jpg" alt="Carlsberg-Logo" style="width: 60%;"></a>
@@ -172,7 +174,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>10:45</td>
     <td>
-      <b>Session 1</b>
+      <b>Session 1</b> (Chair: Kallistos Weis)
        <ul>
         <li>Malte Lochau (University of Siegen)<br><i>Sampling-based Testing for Partial Quantum State Tomography</i></li>
         <li>Tim Bächle (Karlsruhe Institute of Technology)<br><i>Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems</i></li>
@@ -187,7 +189,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>13:15</td>
     <td>
-      <b>Session 2</b>
+      <b>Session 2</b> (Chair: Roman Bögli)
       <ul>
         <li>Mathis Weiß (University of Siegen)<br><i>Modeling Approaches and Testing Strategies for Independent Features in Configurable Software</i></li>
         <li>Norbert Siegmund (Leipzig University)<br><i>The Promise of Tailor-Made Software: From Tale to Reality</i></li>
@@ -202,7 +204,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>15:00</td>
     <td>
-      <b>Session 3</b>
+      <b>Session 3</b> (Chair: Francisco Mayo)
         <ul>
           <li>Sebastian Böhm (Saarland University)<br><i>Exploring the Effects of Feature Granularity and Data-Flow Complexity on Program Comprehension</i></li>
           <li>Sebastian Krieter (TU Braunschweig)<br><i>Tackling Expressive FM Constructs with Pseudo-Boolean d-DNNF Compilation</i></li>
@@ -238,7 +240,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>10:45</td>
     <td>
-      <b>Session 4</b>
+      <b>Session 4</b> (Chair: Tobias Dick)
       <ul>
         <li>Christopher Rau (TU Braunschweig)<br><i>Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing</i></li>
         <li>Malte Grave (Johannes Kepler Universität Linz)<br><i>Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems</i></li>
@@ -253,7 +255,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>13:00</td>
     <td>
-      <b>Session 5</b>
+      <b>Session 5</b> (Chair: Simon Butt)
       <ul>
         <li>Simon Bothe (KIT)<br><i>Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development</i></li>
         <li>Francisco Mayo (University of Seville)<br><i>Toward an Innovation-Oriented SPL Methodology for On-Premise Intelligent Systems</i></li>
@@ -268,7 +270,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>14:45</td>
     <td>
-      <b>Session 6</b>
+      <b>Session 6</b> (Chair: Christopher Rau)
       <ul>
         <li>Bjarke Hamerbak Pawulewski (University of Southern Denmark)<br><i>Feature Model Synthesis</i></li>
         <li>Evelyn Rühl (University of Siegen)<br><i>Feature Localization based on Large Language Models</i></li>
@@ -304,7 +306,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>10:45</td>
     <td>
-      <b>Session 7</b>
+      <b>Session 7</b> (Chair: Lukas Abelt)
       <ul>
         <li>Tim Schmidt (Ulm University)<br><i>A Revised Classification of Product Sampling for Software Product Lines</i></li>
         <li>Morten Harter (KIT)<br><i>Modularity, Variability and Evolution for Threat Analysis and Risk Assessment</i></li>
@@ -319,7 +321,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>13:00</td>
     <td>
-      <b>Session 8</b>
+      <b>Session 8</b> (Chair: Simon Bothe)
       <ul>
         <li>Francisco Diaz (University of Seville)<br><i>Integration of Feature Models into the Model Context Protocol (MCP) for Dynamic Configuration of Data Analysis Interfaces</i></li>
         <li>Stefan Sobernig (WU Wien)<br><i>Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender</i></li>
@@ -358,7 +360,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>09:00</td>
     <td>
-      <b>Session 9</b>
+      <b>Session 9</b> (Chair: Malte Grave)
       <ul>
         <li>Thomas Thüm (TU Braunschweig)<br><i>WIFI - What is a Feature Interaction?</i></li>
         <li>Lukas Abelt (Saarland University)<br><i>Pitfalls, challenges and learnings when adopting new approaches for performance benchmarking of configurable software systems</i></li>
@@ -372,7 +374,7 @@ The list of speakers for each session will be announced on the preceding day.
   <tr>
     <td>10:00</td>
     <td>
-      <b>Session 10</b>
+      <b>Session 10</b> (Chair: Evelyn Rühl)
       <ul>
         <li>Kallistos Weis (Saarland University)<br><i>Time-Aware Performance-Influence Modeling in the Spectral Domain</i></li>
         <li>Ruben Dunkel (TU Braunschweig)<br><i>Towards the Extraction of Implicit Variability From R Research Scripts</i></li>
