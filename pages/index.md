@@ -176,9 +176,9 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 1</b> (Chair: Kallistos Weis)
        <ul>
-        <li>Malte Lochau (University of Siegen)<br><i>Sampling-based Testing for Partial Quantum State Tomography</i></li>
-        <li>Tim Bächle (Karlsruhe Institute of Technology)<br><i>Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems</i></li>
-        <li>Rahel Sundermann (TU Braunschweig)<br><i>Fixing Feature Mappings</i></li>
+        <li>Malte Lochau (University of Siegen)<br><i><a href="assets/slides/fosd26-maltelochau.pdf" target="_blank">Sampling-based Testing for Partial Quantum State Tomography</a></i></li>
+        <li>Tim Bächle (Karlsruhe Institute of Technology)<br><i><a href="assets/slides/fosd26-timbächle.pdf" target="_blank">Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems</a></i></li>
+        <li>Rahel Sundermann (TU Braunschweig)<br><i><a href="assets/slides/fosd26-rahelsundermann.pdf" target="_blank">Fixing Feature Mappings</a></i></li>
       </ul>
     </td>
   </tr>
@@ -191,7 +191,7 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 2</b> (Chair: Roman Bögli)
       <ul>
-        <li>Mathis Weiß (University of Siegen)<br><i>Modeling Approaches and Testing Strategies for Independent Features in Configurable Software</i></li>
+        <li>Mathis Weiß (University of Siegen)<br><i><a href="assets/slides/fosd26-mathisweiß.pdf" target="_blank">Modeling Approaches and Testing Strategies for Independent Features in Configurable Software</a></i></li>
         <li>Norbert Siegmund (Leipzig University)<br><i>The Promise of Tailor-Made Software: From Tale to Reality</i></li>
         <li>Tobias Dick (Saarland University)<br><i>Exceptional Configuration Subspaces with Subgroup Discovery: What Works Best?</i></li>
       </ul>
@@ -206,8 +206,8 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 3</b> (Chair: Francisco Mayo)
         <ul>
-          <li>Sebastian Böhm (Saarland University)<br><i>Exploring the Effects of Feature Granularity and Data-Flow Complexity on Program Comprehension</i></li>
-          <li>Sebastian Krieter (TU Braunschweig)<br><i>Tackling Expressive FM Constructs with Pseudo-Boolean d-DNNF Compilation</i></li>
+          <li>Sebastian Böhm (Saarland University)<br><i><a href="assets/slides/fosd26-sebastianböhm.pdf" target="_blank">Exploring the Effects of Feature Granularity and Data-Flow Complexity on Program Comprehension</a></i></li>
+          <li>Sebastian Krieter (TU Braunschweig)<br><i><a href="assets/slides/fosd26-sebastiankrieter.pdf" target="_blank">Tackling Expressive FM Constructs with Pseudo-Boolean d-DNNF Compilation</a></i></li>
           <li>Sebastian Simon (Leipzig University)<br><i>A Socio-Technical Perspective on Configuration Spaces: Insights into Technology Ecosystems, Contributor Dynamics, and Evolution in Open-Source Software Projects</i></li>
         </ul>
     </td>
@@ -244,7 +244,7 @@ The list of speakers for each session will be announced on the preceding day.
       <ul>
         <li>Christopher Rau (TU Braunschweig)<br><i>Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing</i></li>
         <li>Malte Grave (Johannes Kepler Universität Linz)<br><i>Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems</i></li>
-        <li>Dirk Neumann (KIT)<br><i>The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines</i></li>
+        <li>Dirk Neumann (KIT)<br><i><a href="assets/slides/fosd26-dirkneumann.pdf" target="_blank">The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines</a></i></li>
       </ul>
     </td>
   </tr>
@@ -257,8 +257,8 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 5</b> (Chair: Simon Butt)
       <ul>
-        <li>Simon Bothe (KIT)<br><i>Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development</i></li>
-        <li>Francisco Mayo (University of Seville)<br><i>Toward an Innovation-Oriented SPL Methodology for On-Premise Intelligent Systems</i></li>
+        <li>Simon Bothe (KIT)<br><i><a href="assets/slides/fosd26-simonbothe.pdf" target="_blank">Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development</a></i></li>
+        <li>Francisco Mayo (University of Seville)<br><i><a href="assets/slides/fosd26-franciscodominguezmayo.pdf" target="_blank">Toward an Innovation-Oriented SPL Methodology for On-Premise Intelligent Systems</a></i></li>
         <li>Roman Bögli (University of Bern)<br><i>Exploring Community-Driven Variability: The Bitcoin Case</i></li>
       </ul>
     </td>
@@ -274,7 +274,7 @@ The list of speakers for each session will be announced on the preceding day.
       <ul>
         <li>Bjarke Hamerbak Pawulewski (University of Southern Denmark)<br><i>Feature Model Synthesis</i></li>
         <li>Evelyn Rühl (University of Siegen)<br><i>Feature Localization based on Large Language Models</i></li>
-        <li>Simon Butt (University of Siegen)<br><i>Reconstruction of Cardinality-Based Feature Models</i></li>
+        <li>Simon Butt (University of Siegen)<br><i><a href="assets/slides/fosd26-simonbutt.pdf" target="_blank">Reconstruction of Cardinality-Based Feature Models</a></i></li>
       </ul>
     </td>
   </tr>
@@ -308,9 +308,9 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 7</b> (Chair: Lukas Abelt)
       <ul>
-        <li>Tim Schmidt (Ulm University)<br><i>A Revised Classification of Product Sampling for Software Product Lines</i></li>
+        <li>Tim Schmidt (Ulm University)<br><i><a href="assets/slides/fosd26-timschmidt.pdf" target="_blank">A Revised Classification of Product Sampling for Software Product Lines</a></i></li>
         <li>Morten Harter (KIT)<br><i>Modularity, Variability and Evolution for Threat Analysis and Risk Assessment</i></li>
-        <li>Sandra Kaae Johansen & Sofie Løfberg (University of Southern Denmark)<br><i> Why your grandma was a computer scientist? - A special configuration use case</i></li>
+        <li>Sandra Kaae Johansen & Sofie Løfberg (University of Southern Denmark)<br><i><a href="assets/slides/fosd26-sandrajohansensofielofberg.pdf" target="_blank"> Why your grandma was a computer scientist? - A special configuration use case</a></i></li>
       </ul>
     </td>
   </tr>
@@ -323,9 +323,9 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 8</b> (Chair: Simon Bothe)
       <ul>
-        <li>Francisco Diaz (University of Seville)<br><i>Integration of Feature Models into the Model Context Protocol (MCP) for Dynamic Configuration of Data Analysis Interfaces</i></li>
+        <li>Francisco Diaz (University of Seville)<br><i><a href="assets/slides/fosd26-franciscosbenitez.pdf" target="_blank">Integration of Feature Models into the Model Context Protocol (MCP) for Dynamic Configuration of Data Analysis Interfaces</a></i></li>
         <li>Stefan Sobernig (WU Wien)<br><i>Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender</i></li>
-        <li>Raphael Dunkel (TU Braunschweig)<br><i>Engineering and Selecting Machine Learning Features for Feature Models</i></li>
+        <li>Raphael Dunkel (TU Braunschweig)<br><i><a href="assets/slides/fosd26-raphaeldunkel.pdf" target="_blank">Engineering and Selecting Machine Learning Features for Feature Models</a></i></li>
       </ul>
     </td>
   </tr>
@@ -362,7 +362,7 @@ The list of speakers for each session will be announced on the preceding day.
     <td>
       <b>Session 9</b> (Chair: Malte Grave)
       <ul>
-        <li>Thomas Thüm (TU Braunschweig)<br><i>WIFI - What is a Feature Interaction?</i></li>
+        <li>Thomas Thüm (TU Braunschweig)<br><i><a href="assets/slides/fosd26-thomasthüm.pdf" target="_blank">WIFI - What is a Feature Interaction?</a></i></li>
         <li>Lukas Abelt (Saarland University)<br><i>Pitfalls, challenges and learnings when adopting new approaches for performance benchmarking of configurable software systems</i></li>
       </ul>
     </td>
@@ -377,7 +377,7 @@ The list of speakers for each session will be announced on the preceding day.
       <b>Session 10</b> (Chair: Evelyn Rühl)
       <ul>
         <li>Kallistos Weis (Saarland University)<br><i>Time-Aware Performance-Influence Modeling in the Spectral Domain</i></li>
-        <li>Ruben Dunkel (TU Braunschweig)<br><i>Towards the Extraction of Implicit Variability From R Research Scripts</i></li>
+        <li>Ruben Dunkel (TU Braunschweig)<br><i><a href="assets/slides/fosd26-rubendunkel.pdf" target="_blank">Towards the Extraction of Implicit Variability From R Research Scripts</a></i></li>
       </ul>
     </td>
   </tr>
