@@ -243,7 +243,7 @@ The list of speakers for each session will be announced on the preceding day.
       <b>Session 4</b> (Chair: Tobias Dick)
       <ul>
         <li>Christopher Rau (TU Braunschweig)<br><i>Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing</i></li>
-        <li>Malte Grave (Johannes Kepler Universität Linz)<br><i>Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems</i></li>
+        <li>Malte Grave (Johannes Kepler Universität Linz)<br><i><a href="assets/slides/fosd26-maltegrave.pdf" target="_blank">Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems</a></i></li>
         <li>Dirk Neumann (KIT)<br><i><a href="assets/slides/fosd26-dirkneumann.pdf" target="_blank">The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines</a></i></li>
       </ul>
     </td>
@@ -310,7 +310,7 @@ The list of speakers for each session will be announced on the preceding day.
       <ul>
         <li>Tim Schmidt (Ulm University)<br><i><a href="assets/slides/fosd26-timschmidt.pdf" target="_blank">A Revised Classification of Product Sampling for Software Product Lines</a></i></li>
         <li>Morten Harter (KIT)<br><i>Modularity, Variability and Evolution for Threat Analysis and Risk Assessment</i></li>
-        <li>Sandra Kaae Johansen & Sofie Løfberg (University of Southern Denmark)<br><i><a href="assets/slides/fosd26-sandrajohansensofielofberg.pdf" target="_blank"> Why your grandma was a computer scientist? - A special configuration use case</a></i></li>
+        <li>Sandra Kaae Johansen & Sofie Løfberg (University of Southern Denmark)<br><i><a href="assets/slides/fosd26-sandrajohansensofielofberg.pdf" target="_blank">Why your grandma was a computer scientist? - A special configuration use case</a></i></li>
       </ul>
     </td>
   </tr>
