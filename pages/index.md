@@ -273,7 +273,7 @@ The list of speakers for each session will be announced on the preceding day.
       <b>Session 6</b> (Chair: Christopher Rau)
       <ul>
         <li>Bjarke Hamerbak Pawulewski (University of Southern Denmark)<br><i>Feature Model Synthesis</i></li>
-        <li>Evelyn Rühl (University of Siegen)<br><i>Feature Localization based on Large Language Models</i></li>
+        <li>Evelyn Rühl (University of Siegen)<br><i><a href="assets/slides/fosd26-evelynruehl.pdf" target="_blank">Feature Localization based on Large Language Models</a></i></li>
         <li>Simon Butt (University of Siegen)<br><i><a href="assets/slides/fosd26-simonbutt.pdf" target="_blank">Reconstruction of Cardinality-Based Feature Models</a></i></li>
       </ul>
     </td>
