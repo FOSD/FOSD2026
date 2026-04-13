@@ -363,7 +363,7 @@ The list of speakers for each session will be announced on the preceding day.
       <b>Session 9</b> (Chair: Malte Grave)
       <ul>
         <li>Thomas Thüm (TU Braunschweig)<br><i><a href="assets/slides/fosd26-thomasthüm.pdf" target="_blank">WIFI - What is a Feature Interaction?</a></i></li>
-        <li>Lukas Abelt (Saarland University)<br><i>Pitfalls, challenges and learnings when adopting new approaches for performance benchmarking of configurable software systems</i></li>
+        <li>Lukas Abelt (Saarland University)<br><i><a href="assets/slides/fosd26-lukasabelt.pdf" target="_blank">Pitfalls, challenges and learnings when adopting new approaches for performance benchmarking of configurable software systems</a></i></li>
       </ul>
     </td>
   </tr>
