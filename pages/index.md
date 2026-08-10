@@ -25,7 +25,17 @@
   ul li {
     margin-bottom: 15px;
   }
+  .next-meeting-note {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
 </style>
+
+<p class="next-meeting-note">
+  For the FOSD Meeting 2027, refer to <a href="https://fosd.github.io/FOSD2027">this page</a>.
+</p>
 
 # About
 The Meeting on Feature-Oriented Software Development (FOSD Meeting) is a yearly informal meeting to bring together the community of researchers working on feature-oriented software development, including, but not limited to:
