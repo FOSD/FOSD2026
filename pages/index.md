@@ -168,7 +168,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>09:00</td>
-    <td>Opening</td>
+    <td><a href="assets/slides/opening.pdf" target="_blank">Opening</a> - Sandra Greiner (University of Southern Denmark</td>
   </tr>
   <tr>
     <td>09:15</td>
@@ -393,7 +393,7 @@ The list of speakers for each session will be announced on the preceding day.
   </tr>
   <tr>
     <td>10:50</td>
-    <td>Closing</td>
+    <td><a href="assets/slides/closing_handout.pdf" target="_blank">Closing and Awards</a> - Sandra Greiner (University of Southern Denmark</td>
   </tr>
   <tr>
     <td>11:00</td>
